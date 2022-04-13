@@ -1,0 +1,23 @@
+{
+  "name": "game-library-architecture",
+  "version": "0.0.0",
+  "description": "This repo contains the architecture required for the application (to be created).",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanpinn/game-library-architecture.git"
+  },
+  "author": "Dylan Pinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dylanpinn/game-library-architecture/issues"
+  },
+  "homepage": "https://github.com/dylanpinn/game-library-architecture#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1"
+  }
+}
